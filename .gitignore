@@ -1,7 +1,7 @@
 .idea/
 
-*/obj/
+obj/
 
-*/bin/
+bin/
 
 .vs/
